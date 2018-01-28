@@ -28,7 +28,7 @@ $ npm install webpack -g
 可以通过如下命令尝试是否安装 OK：
 
 ```
-$ webpack -h
+$ webpack -h 
 ```
 
 ### 项目中安装 Webpack
